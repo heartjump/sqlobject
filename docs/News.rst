@@ -39,6 +39,11 @@ Build
 
 * Use ``python_requires`` keyword in ``setup.py``.
 
+CI
+--
+
+* Run pymssql tests at AppVeyor again.
+
 SQLObject 3.5.0
 ===============
 
